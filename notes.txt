@@ -1,3 +1,2 @@
 My first open source repo
 This is second line
-This is third line
